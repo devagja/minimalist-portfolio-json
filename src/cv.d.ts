@@ -51,28 +51,11 @@ interface Work {
 
 type DateStr = `${string}-${string}-${string}`
 
-interface Volunteer {
-  organization: string
-  position: string
-  url: string
-  startDate: DateStr
-  endDate: DateStr
-  summary: string
-  highlights: Highlight
-}
 
 interface Skills {
   name: string
-  level: string
-  keywords: Array<string>
 }
 
-interface Awards {
-  title: string
-  date: string
-  awarder: string
-  summary: string
-}
 
 interface Certificates {
   name: string,
@@ -123,23 +106,6 @@ type Language =
   | "Bengali"
   | string
 
-interface Projects {
-  name: string
-  isActive: boolean
-  description: string
-  highlights: Highlight
-  url: string
-  github?: string
-}
 
-interface Interests {
-  name: string
-  keywords: Array<string>
-}
-
-interface References {
-  name: string
-  reference: string
-}
 
 type Highlight = Array<String>

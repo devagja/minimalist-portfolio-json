@@ -6,7 +6,8 @@
     "email": "jose.antonio.aguilar.granados@gmail.com",
     "phone": "+34 643348625",
     "url": "https://jose-aguilar.vercel.app",
-    "summary": "Desarrollador Frontend con más de 6 años de experiencia. Especializado en el sector bancario y con participación en proyectos estratégicos para el Grupo Santander, el Grupo Andbank y el Grupo BancaMarch. Experto en React, frameworks JSX (Qwik, Solid, Preact), Astro y el ecosistema JavaScript/TypeScript, enfocado en crear interfaces escalables, de alto rendimiento y optimizadas. Amplia experiencia en entornos y metodologías ágiles, colaborando con equipos multidisciplinares en proyectos globales. Experiencia profesional complementada con los sectores IT de telecomunicaciones, hostelería y salud, liderando mejoras de rendimiento y experiencia del usuario.",
+    "summary": "+6 años de experiencia como Desarrollador Frontend. Especializado en proyectos bancarios para Santander, Andbank y BancaMarch. Experto en React, frameworks JSX y ecosistema JavaScript/TypeScript. He trabajado en entornos ágiles, colaborando en proyectos globales y en sectores como telecomunicaciones, hostelería y salud.",
+    "ssssummary": "Desarrollador Frontend con más de 6 años de experiencia. Especializado en el sector bancario y con participación en proyectos estratégicos para el Grupo Santander, el Grupo Andbank y el Grupo BancaMarch. Experto en React, frameworks JSX (Qwik, Solid, Preact), Astro y el ecosistema JavaScript/TypeScript, enfocado en crear interfaces escalables, de alto rendimiento y optimizadas. Amplia experiencia en entornos y metodologías ágiles, colaborando con equipos multidisciplinares en proyectos globales. Experiencia profesional complementada con los sectores IT de telecomunicaciones, hostelería y salud, liderando mejoras de rendimiento y experiencia del usuario.",
     "ssummary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
@@ -74,134 +75,169 @@
   ],
   "education": [
     {
-      "institution": "Universitat Oberta de Catalunya",
+      "institution": "IES Marqués de Comares",
       "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
+      "area": "Desarrollador de Aplicaciones Web",
+      "studyType": "FP Superior",
+      "startDate": "2016-01-01",
+      "endDate": "2019-01-01",
+      "score": "10.0",
+      "courses": []
     }
   ],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend"
-      ]
+      "name": "Jira"
     },
     {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Diseño Responsive"
-      ]
+      "name": "Trello"
     },
     {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "name": "Figma"
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
+      "name": "Sketch"
     },
     {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "name": "Trunk-Based"
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor"
-      ]
+      "name": "GitLab Flow"
     },
     {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
+      "name": "TDD"
     },
     {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente"
-      ]
+      "name": "BDD"
     },
     {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
+      "name": "Continuous Testing"
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "name": "TypeScript"
     },
     {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "name": "JavaScript"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Next.js"
+    },
+    {
+      "name": "Astro"
+    },
+    {
+      "name": "Qwik"
+    },
+    {
+      "name": "Preact"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "Qwik"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "React Query(TanStack query)"
+    },
+    {
+      "name": "Redux"
+    },
+    {
+      "name": "Zustand"
+    },
+    {
+      "name": "Jotai"
+    },
+    {
+      "name": "React Router"
+    },
+    {
+      "name": "TanStack Router"
+    },
+    {
+      "name": "Wouter"
+    },
+    {
+      "name": "React Hook Form"
+    },
+    {
+      "name": "Formik"
+    },
+    {
+      "name": "TanStack Form"
+    },
+    {
+      "name": "Axios"
+    },
+    {
+      "name": "Prisma"
+    },
+    {
+      "name": "tRPC"
+    },
+    {
+      "name": "PostCSS"
+    },
+    {
+      "name": "ANTD"
+    },
+    {
+      "name": "Bootstrap"
+    },
+    {
+      "name": "MUI"
+    },
+    {
+      "name": "Unit testing"
+    },
+    {
+      "name": "Integration Testing"
+    },
+    {
+      "name": "E2E Testing"
+    },
+    {
+      "name": "Vitest"
+    },
+    {
+      "name": "Playwright"
+    },
+    {
+      "name": "Testing Library"
+    },
+    {
+      "name": "Storybook"
+    },
+    {
+      "name": "Mock Service Worker"
+    },
+    {
+      "name": "Zod"
+    },
+    {
+      "name": "Pnpm"
+    },
+    {
+      "name": "Tailwind"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Git"
     }
   ],
   "languages": [
@@ -216,85 +252,6 @@
     {
       "language": "Francais",
       "fluency": "Basic"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }
-  ],
-  "projects": [
-    {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
     }
   ]
 }
