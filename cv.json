@@ -1,16 +1,17 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Jose Aguilar",
+    "label": "Frontend React Developer con más de 6 años de experiencia",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "jose.antonio.aguilar.granados@gmail.com",
+    "phone": "+34 643348625",
+    "url": "https://jose-aguilar.vercel.app",
+    "summary": "Desarrollador Frontend con más de 6 años de experiencia. Especializado en el sector bancario y con participación en proyectos estratégicos para el Grupo Santander, el Grupo Andbank y el Grupo BancaMarch. Experto en React, frameworks JSX (Qwik, Solid, Preact), Astro y el ecosistema JavaScript/TypeScript, enfocado en crear interfaces escalables, de alto rendimiento y optimizadas. Amplia experiencia en entornos y metodologías ágiles, colaborando con equipos multidisciplinares en proyectos globales. Experiencia profesional complementada con los sectores IT de telecomunicaciones, hostelería y salud, liderando mejoras de rendimiento y experiencia del usuario.",
+    "ssummary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "29010",
+      "city": "Málaga",
       "countryCode": "ES",
       "region": "España"
     },
@@ -18,172 +19,188 @@
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "url": "https://www.linkedin.com/in/jose-antonio-aguilar-granados/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "devagja",
+        "url": "https://github.com/devagja"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Freelance",
+      "position": "Freelance Web Creator & Developer",
+      "startDate": "2025-08-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Actualmente me dedico a la búsqueda activa de clientes y al desarrollo de landing pages y sitios web orientados a mejorar la visibilidad online de profesionales y negocios. Mi último proyecto ha sido para un cliente del sector legal: scruzabogados.vercel.app."
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Vertmont - Grupo Santander",
+      "position": "Frontend React Developer",
+      "startDate": "2023-07-01",
+      "endDate": "2025-08-01",
+      "summary": "Desarrollo de la plataforma técnica global Gluon para estandarizar el stack tecnológico del banco. Implementación de un entorno altamente automatizado para mejorar productividad y calidad del software. Creación de catálogos globales de activos y repositorios de código reutilizables."
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
+      "name": "RkPeople - Adamo Telecom / Cadenas hoteleras",
+      "position": "Frontend Tech Lead",
+      "startDate": "2021-08-01",
+      "endDate": "2023-07-01",
+      "summary": "Desarrollo y mantenimiento de landing pages y funnels de ventas para telecomunicaciones. Construcción de un CMS privado para gestión de contenido, optimizado para SEO y mobile-first. Desarrollo de landing pages y sistemas de reservas para cadenas hoteleras."
+    },
+    {
+      "name": "Atmira - Andbank / Sector bancario / Sector deportivo",
+      "position": "Frontend React Developer",
+      "startDate": "2020-02-01",
+      "endDate": "2021-07-01",
+      "summary": "Responsable del módulo de Transferencias en portal bancario del Grupo Andbank (nacionales, internacionales, inmediatas, programadas...). Mantenimiento y evolución del portal bancario de Banca March, mejorando experiencia de usuario. Desarrollo de la sección deportes del Grupo Codere, integrando estadísticas y resultados en tiempo real.Creación de paneles de gestión privados y sistemas de almacenamiento seguro de documentos confidenciales."
+    },
+    {
+      "name": "EveryBind - Porcelanosa / Sanidae",
+      "position": "FullStack Developer",
+      "startDate": "2019-07-01",
+      "endDate": "2020-02-01",
+      "summary": "Mantenimiento y evolución de aplicaciones médicas. Desarrollo de gestores de contenido web personalizados."
+    },
+    {
+      "name": "Genially",
+      "position": "Becario Fullstack Developer",
+      "startDate": "2019-03-01",
+      "endDate": "2019-06-01",
+      "summary": "Maquetación y estilado de la página web principal (+10M de visitas mensuales), asegurando rendimiento y escalabilidad. Creación de un sistema de plantillas para generación automática de páginas estáticas usando React, TypeScript y Node.js. Desarrollo de funcionalidades backend ligeras para soporte de contenido dinámico."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitat Oberta de Catalunya",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Ingeniero de Software",
+      "studyType": "Bachelor",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Desarrollo Web",
+        "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
       ]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     }
   ],
@@ -194,20 +211,28 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Basic"
+    },
+    {
+      "language": "Francais",
+      "fluency": "Basic"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
       "name": "mars.codes",
