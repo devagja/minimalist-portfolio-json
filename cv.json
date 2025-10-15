@@ -35,42 +35,64 @@
       "position": "Freelance Web Creator & Developer",
       "startDate": "2025-08-01",
       "endDate": null,
-      "summary": "Actualmente me dedico a la búsqueda activa de clientes y al desarrollo de landing pages y sitios web orientados a mejorar la visibilidad online de profesionales y negocios. Mi último proyecto ha sido para un cliente del sector legal: scruzabogados.vercel.app."
+      "summaries": [
+        "Actualmente me dedico a la búsqueda activa de clientes y al desarrollo de landing pages y sitios web orientados a mejorar la visibilidad online de profesionales y negocios. Mi último proyecto ha sido para un cliente del sector legal: scruzabogados.vercel.app"
+      ]
     },
     {
       "name": "Vertmont - Grupo Santander",
       "position": "Frontend React Developer",
       "startDate": "2023-07-01",
       "endDate": "2025-08-01",
-      "summary": "Desarrollo de la plataforma técnica global Gluon para estandarizar el stack tecnológico del banco. Implementación de un entorno altamente automatizado para mejorar productividad y calidad del software. Creación de catálogos globales de activos y repositorios de código reutilizables."
+      "summaries": [
+        "Desarrollo de la plataforma técnica global <span class=\"font-bold\">Gluon</span> para estandarizar el stack tecnológico del banco.",
+        "Implementación de un <span class=\"font-bold\">entorno altamente automatizado para mejorar productividad y calidad del software.",
+        "Creación de <span class=\"font-bold\">catálogos globales de activos y <span class=\"font-bold\">repositorios de código reutilizables."
+      ]
     },
     {
       "name": "RkPeople - Adamo Telecom / Cadenas hoteleras",
       "position": "Frontend Tech Lead",
       "startDate": "2021-08-01",
       "endDate": "2023-07-01",
-      "summary": "Desarrollo y mantenimiento de landing pages y funnels de ventas para telecomunicaciones. Construcción de un CMS privado para gestión de contenido, optimizado para SEO y mobile-first. Desarrollo de landing pages y sistemas de reservas para cadenas hoteleras."
+      "summaries": [
+        "Desarrollo y mantenimiento de <span class=\"font-bold\">landing pages y funnels de ventas para <span class=\"font-bold\">telecomunicaciones.",
+        "Construcción de un <span class=\"font-bold\">CMS privado para gestión de contenido, optimizado para SEO y mobile-first.",
+        "Desarrollo de landing pages y sistemas de reservas para cadenas hoteleras."
+      ]
     },
     {
       "name": "Atmira - Andbank / Sector bancario / Sector deportivo",
       "position": "Frontend React Developer",
       "startDate": "2020-02-01",
       "endDate": "2021-07-01",
-      "summary": "Responsable del módulo de Transferencias en portal bancario del Grupo Andbank (nacionales, internacionales, inmediatas, programadas...). Mantenimiento y evolución del portal bancario de Banca March, mejorando experiencia de usuario. Desarrollo de la sección deportes del Grupo Codere, integrando estadísticas y resultados en tiempo real.Creación de paneles de gestión privados y sistemas de almacenamiento seguro de documentos confidenciales."
+      "summaries": [
+        "Responsable del módulo de Transferencias en portal bancario del Grupo Andbank (nacionales, internacionales, inmediatas, programadas...).",
+        "Mantenimiento y evolución del portal bancario de Banca March, mejorando experiencia de usuario.",
+        "Desarrollo de la sección deportes del Grupo Codere, integrando estadísticas y resultados en tiempo real.",
+        "Creación de paneles de gestión privados y sistemas de almacenamiento seguro de documentos confidenciales."
+      ]
     },
     {
       "name": "EveryBind - Porcelanosa / Sanidae",
       "position": "FullStack Developer",
       "startDate": "2019-07-01",
       "endDate": "2020-02-01",
-      "summary": "Mantenimiento y evolución de aplicaciones médicas. Desarrollo de gestores de contenido web personalizados."
+      "summaries": [
+        "Mantenimiento y evolución de aplicaciones médicas.",
+        "Desarrollo de gestores de contenido web personalizados."
+      ]
     },
     {
       "name": "Genially",
       "position": "Becario Fullstack Developer",
       "startDate": "2019-03-01",
       "endDate": "2019-06-01",
-      "summary": "Maquetación y estilado de la página web principal (+10M de visitas mensuales), asegurando rendimiento y escalabilidad. Creación de un sistema de plantillas para generación automática de páginas estáticas usando React, TypeScript y Node.js. Desarrollo de funcionalidades backend ligeras para soporte de contenido dinámico."
+      "summaries": [
+        "Maquetación y estilado de la página web principal (+10M de visitas mensuales), asegurando rendimiento y escalabilidad.",
+        "Creación de un sistema de plantillas para generación automática de páginas estáticas usando React, TypeScript y Node.js.",
+        "Desarrollo de funcionalidades backend ligeras para soporte de contenido dinámico."
+      ]
     }
   ],
   "education": [
